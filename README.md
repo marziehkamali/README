@@ -1,6 +1,6 @@
 # Marzieh's Notes
 
-## Summary 
+## Summary
 
-This repository contains all of the notes taken by Marzieh for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Marzieh](https://github.com/marziehkamali) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
